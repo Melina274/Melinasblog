@@ -1,12 +1,11 @@
 +++
 title = "«Also ich konnte nicht sagen es war mir egal»  "
-date = "2023-03-19"
+date = "2023-03-18"
 draft = false
 pinned = false
-description = ""
+image = "margrit-schmid.jpg"
+description = "Die schreckliche Diagnose Brustkrebs"
 +++
-
-
 {{<lead>}}
 
 Ein Interview mit Margrit Schmid, 78, in dem Sie uns über ihre Erfahrungen mit Brustkrebs erzählt und wie Sie mit dieser Nachricht Umgegangen ist. Veränderte solch ein Schicksalsschlage die Lebenseinstellung von Margrit Schmit?
@@ -63,7 +62,7 @@ Nein, mein Umfeld sowieso nicht, da es ja niemand wusste und meine Familie auch 
 
 **Hattet ihr Angst das es nicht wieder gut kommt?**      
 
-Das hatte ich natürlich schon, weil ich wusste ja nicht wie lange ich noch lebe und ob es plötzlich ändert. Wenn man die Diagnose hat, denkt man schon jeden tag daran, aber jetzt nicht panisch aber es ist halt ein ständiger Begleiter von einem , dass es sein kann aber vielleicht tut man so auch bewusster leben und die Sachen genießen die man hat**.**
+Das hatte ich natürlich schon, weil ich wusste ja nicht wie lange ich noch lebe und ob es plötzlich ändert. Wenn man die Diagnose hat, denkt man schon jeden tag daran, aber jetzt nicht panisch aber es ist halt ein ständiger Begleiter von einem , dass es sein kann aber vielleicht tut man so auch bewusster leben und die Sachen genießen die man hat.
 
 **Haben sie noch mit Spätfolgen zu kämpfen?**
 
@@ -74,3 +73,7 @@ Ja, also nach 7 Jahren hatte ich Rückenschmerzen, dachte aber es ist wieder Rhe
 Das kann man nicht. Aber ich habe gar nie über das gesprochen, weil ich nicht wollte aber auch nicht konnte. Als ich das erste mal Chemo und Bestrahlung hatte, hat mir mein Arzt gesagt, es wäre gut wenn ich mit jemanden darüber sprechen würde, ich sagte aber nein das kann ich nicht, ich hätte es in diesem Moment auch nie gekonnt. Ich musste einfach zu mir schauen, dass ich das gut für mich annehmen und das beste daraus machen kann und so Ratschläge von anderen das ist ja nicht das gleiche. Die sind ja nicht einem selber, die sagen dann etwas, was  für einem überhaupt nicht stimmt und das nervt einen gerade. Dieses Interview war für mich dann die Gelegenheit von früher, wo mir gesagt wurde es wäre gut, wenn ich das mache also dachte ich mir ich mache das jetzt auch noch.  Aber ich habe immer gefunden ich kann nicht immer sagen, warum oder warum ich oder warum passiert mir das jetzt gerade, es ist jetzt einfach so und wenn so etwas passiert ist. 
 
 > Alle die einen Unfall oder die irgendetwas haben, müssen lernen mit dem zu leben und das einzige was man machen kann ist das Beste für sich daraus zu machen und einfach trotzdem Freude an allem zu haben, was man hat, weil man hat nämlich ganz viel.
+
+<hr>
+
+Margrit Schmid erzählte über ihre Erfahrungen mit Krebs und wie Sie mit dem umging. Aber veränderte die Diagnose wirklich Margrit Schmids Lebenseinstellung? Margrit Schmid war schon immer sehr Positiv eingestellt und dadurch hat sich ihre Identität und Lebenseinstellung kein bisschen verändert da Sie für sich einen passenden Weg gefunden hat wie mit der Diagnose umgehen.
