@@ -8,13 +8,13 @@ description = "Die schreckliche Diagnose Brustkrebs"
 +++
 {{<lead>}}
 
-Ein Interview mit Margrit Schmid, 78, in dem Sie uns über ihre Erfahrungen mit Brustkrebs erzählt und wie Sie mit dieser Nachricht Umgegangen ist. Veränderte solch ein Schicksalsschlage die Lebenseinstellung von Margrit Schmit?
+Ein Interview mit Margrit Schmid, 78 Jahre alt, in welchem Sie uns über ihre Erfahrungen mit Brustkrebs erzählt und wie Sie mit dieser Nachricht Umgegangen ist. Veränderte solch ein Schicksalsschlage die Lebenseinstellung von Margrit Schmit?
 
 {{</lead>}}
 
+\- Interview von Melina Biser
 
-
-![Margrit Schmid ist 78 Jahre alt. Sie erhielt 2007 die schreckliche Nachricht das Sie an Brustkrebs erkrankt ist. Trotz dieser schweren Zeit, hatte Sie ihre Lebensfreude nie verloren.](margrit-schmid.jpg)
+![Margrit Schmid ist 78 Jahre alt und wohnt in Münchenbuchsee. Sie erhielt 2007 die schreckliche Nachricht das Sie an Brustkrebs erkrankt ist. Trotz dieser schweren Zeit, hatte Sie ihre Lebensfreude nie verloren.](margrit-schmid.jpg)
 
 **Welche Art von Krebs hatten Sie und wann haben Sie davon erfahren?**
 
