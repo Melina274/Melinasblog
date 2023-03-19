@@ -1,11 +1,21 @@
 +++
-title = "«Also ich konnte nicht sagen es war mir egal»  {{<lead>}} Das Leben mit der Diagnose Brustkrebs und wie es die Identiät von Betroffenen verändert  {{</lead>}}"
+title = "«Also ich konnte nicht sagen es war mir egal»  "
 date = "2023-03-19"
 draft = false
 pinned = false
-description = "Margrit Schmid ist 78 Jahre alt. Sie erhielt 2007 die schreckliche Nachricht das Sie an Brustkrebs erkrankt ist. Trotzdem hatte Sie ihre Lebensfreude nie verloren   "
+description = ""
 +++
 
+
+{{<lead>}}
+
+Ein Interview mit Margrit Schmid, 78, in dem Sie uns über ihre Erfahrungen mit Brustkrebs erzählt und wie Sie mit dieser Nachricht Umgegangen ist. Veränderte solch ein Schicksalsschlage die Lebenseinstellung von Margrit Schmit?
+
+{{</lead>}}
+
+
+
+![Margrit Schmid ist 78 Jahre alt. Sie erhielt 2007 die schreckliche Nachricht das Sie an Brustkrebs erkrankt ist. Trotz dieser schweren Zeit, hatte Sie ihre Lebensfreude nie verloren.](margrit-schmid.jpg)
 
 **Welche Art von Krebs hatten Sie und wann haben Sie davon erfahren?**
 
