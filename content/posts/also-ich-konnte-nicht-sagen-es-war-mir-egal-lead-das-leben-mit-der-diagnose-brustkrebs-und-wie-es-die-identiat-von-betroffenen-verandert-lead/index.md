@@ -1,5 +1,5 @@
 +++
-title = "«Also ich konnte nicht sagen es war mir egal» {{<lead>}} Das Leben mit der Diagnose Brustkrebs und wie es die Identiät von Betroffenen verändert  {{</lead>}}"
+title = "«Also ich konnte nicht sagen es war mir egal»  {{<lead>}} Das Leben mit der Diagnose Brustkrebs und wie es die Identiät von Betroffenen verändert  {{</lead>}}"
 date = "2023-03-19"
 draft = false
 pinned = false
