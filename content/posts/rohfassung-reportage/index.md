@@ -15,7 +15,7 @@ Brustkrebs ist eine der häufigsten Krebsarten bei Frauen weltweit. Eine von ach
 
 {{<box>}}
 
-Margrit Schmid (78), sie lebt momentan in Münchenbuchsee. Sie ist verheiratet hat eigene Kinder und auch schon Grosskinder. Früher arbeitete Sie im Frauenverein und im Kirchgemeinderat. 
+Margrit Schmid (78), sie lebt momentan in Münchenbuchsee. Sie ist verheiratet, hat eigene Kinder und auch schon Grosskinder. Früher arbeitete Sie im Frauenverein und im Kirchgemeinderat. 
 
 {{</box>}}
 
