@@ -27,7 +27,7 @@ Wir sitzen in Margrit Schmids Wohnzimmer. Sie trägt ein weißes T-Shirt mit ein
 
 Die Heilungschancen sind bei Früherkennung sehr gut. Es gibt verschiedene Behandlungsmöglichkeiten, wie Margrit erzählte. Die Behandlung, die sie durchmachen musste, war intensiv. Sie unterzog sich einer brusterhaltenden Operation, drei Monate lang wöchentlich Chemotherapie, Bestrahlung und Medikamenten. Doch sie gab nicht auf und kämpfte sich durch.
 
-<>Brustkrebs ie nach der Diagnose leben noch 80 Prozent der erkrankten Frauen. Eine mindestens zehnjährige Nachbeobachtung empfehlen Fachleute. <>
+<>Brustkrebs ist zwar eine der häufigsten Krebsarten bei Frauen, aber er hat heute auch eine gute Heilungsquote. Fünf Jahre nach der Diagnose leben noch 80 Prozent der erkrankten Frauen. Eine mindestens zehnjährige Nachbeobachtung empfehlen Fachleute. <>
 
 Trotz der Schwere der Diagnose änderte sich ihre Lebenseinstellung nicht. *"Ich war schon immer sehr positiv eingestellt und dachte mir, man muss das genießen, was man kann, und das andere kann man ja nicht ändern",* sagt sie ohne lange zu überlegen. Während der Behandlung ging es ihr erstaunlich gut, und niemand bemerkte etwas.
 
