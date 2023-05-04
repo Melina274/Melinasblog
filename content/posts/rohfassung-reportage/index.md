@@ -1,5 +1,5 @@
 +++
-title = "Der Kampf gegen den Brustkrebs "
+title = "Der Kampf gegen den Brustkrebs und wie er mich beeinflusste. "
 date = "2023-04-07"
 draft = false
 pinned = false
