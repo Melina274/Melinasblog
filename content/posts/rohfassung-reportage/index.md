@@ -41,13 +41,11 @@ Die meisten Menschen haben das Gefühl, dass nur Frauen an Brustkrebs erkranken,
 
 ### Werde ich wieder gesund?
 
-Die Heilungschancen sind bei Früherkennung sehr gut. Es gibt verschiedene Behandlungsmöglichkeiten, wie Margrit mit einem Lächeln im Gesicht erzählt. Die Behandlung, die sie durchmachen musste, war intensiv. Sie unterzog sich einer brusterhaltenden Operation, drei Monate lang wöchentlich Chemotherapie, Bestrahlung und Medikamenten. Doch sie gab nicht auf und kämpfte sich durch. Brustkrebs ist zwar eine der häufigsten Krebsarten bei Frauen, aber er hat heute auch eine gute Heilungsquote. Fünf Jahre nach der Diagnose leben noch 80 Prozent der erkrankten Frauen. Eine mindestens zehnjährige Nachbeobachtung empfehlen Fachleute. Trotz der Schwere der Diagnose änderte sich ihre Lebenseinstellung nicht.
+Die Heilungschancen sind bei Früherkennung sehr gut. Es gibt verschiedene Behandlungsmöglichkeiten, wie Margrit hoffnungsvoll mit einem lächeln im Gesicht erzählt. Die Behandlung, die sie durchmachen musste, war intensiv. Sie unterzog sich einer brusterhaltenden Operation, drei Monate lang wöchentlich Chemotherapie, Bestrahlung und Medikamenten. Doch sie gab nicht auf und kämpfte sich durch. Brustkrebs ist zwar eine der häufigsten Krebsarten bei Frauen, aber er hat heute auch eine gute Heilungsquote. Fünf Jahre nach der Diagnose leben noch 80 Prozent der erkrankten Frauen. Eine mindestens zehnjährige Nachbeobachtung empfehlen Fachleute. Trotz der Schwere der Diagnose änderte sich ihre Lebenseinstellung nicht.
 
 >  *Ich war schon immer sehr positiv eingestellt und dachte mir, man muss das genießen, was man kann, und das andere kann man ja nicht ändern",* 
 
 sagt sie fröhlich mit einem Lächeln im Gesicht ohne lange zu überlegen.
-
-
 
 ### Es wusste fast niemand
 
@@ -57,4 +55,4 @@ Während der Behandlung ging es ihr erstaunlich gut, und niemand bemerkte etwas.
 
 ### Alles kommt gut
 
-Natürlich hatte Margrit Angst, dass es nicht gut ausgehen würde. "Man denkt schon jeden Tag daran, aber jetzt nicht panisch. Es ist halt ein ständiger Begleiter von einem, dass es sein kann", im Hintergrund hört man plötzlich ganz leise ihren Mann seufzen als er ihre Aussage gehört hat. Und leider gab es auch Spätfolgen. Nach sieben Jahren hatte sie Rückenschmerzen, die sich als Brustkrebsableger im Wirbel herausstellten. Sie musste weitere Behandlungen über sich ergehen lassen und sich insgesamt 32 Mal jeden Tag im Lindenhof-Spital bestrahlen lassen. Doch auch das hat sie gemeistert. Mittlerweile geht es Margrit sehr gut und sie hat alles Behandlungen sehr gut überstanden, trotzdem muss sie immer noch zwei Mal im Jahr sich untersuchen lassen um frühzeitig zu erkennen ob der Krebs zurück gekommen ist.
+Natürlich hatte Margrit Angst, dass es nicht gut ausgehen würde. "Man denkt schon jeden Tag daran, aber jetzt nicht panisch. Es ist halt ein ständiger Begleiter von einem, dass es sein kann", im Hintergrund hört man plötzlich ganz leise ihren Mann seufzen als er ihre Aussage gehört hat. Und leider gab es auch Spätfolgen. Nach sieben Jahren hatte sie Rückenschmerzen, die sich als Brustkrebsableger im Wirbel herausstellten. Sie musste weitere Behandlungen über sich ergehen lassen und sich insgesamt 32 Mal jeden Tag im Lindenhof-Spital bestrahlen lassen. Doch auch das hat sie gemeistert. Mittlerweile geht es Margrit sehr gut und sie hat alles Behandlungen sehr gut überstanden, trotzdem muss sie immer noch zwei Mal im Jahr sich untersuchen lassen um frühzeitig zu erkennen ob der Krebs zurück gekommen ist. Die Diagnose veränderte Margrit Schmids Persönlichkeit überhaupt nicht. Sie hatte zwar ein wenig Angst trotzdem liess sie sich ihre Lebensfreude nie nehmen. Während der ganzen Zeit strahlt Margrit und lächelt in voller Freude.
