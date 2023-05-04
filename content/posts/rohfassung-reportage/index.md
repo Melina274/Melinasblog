@@ -49,7 +49,7 @@ sagt sie fröhlich mit einem Lächeln im Gesicht ohne lange zu überlegen.
 
 
 
-### Fast niemand wusste es
+### Es wusste fast niemand
 
 Während der Behandlung ging es ihr erstaunlich gut, und niemand bemerkte etwas. Ihre Diagnose hat sie nicht vielen Menschen mitgeteilt. Nur ihre Familie, einige Frauen im Frauenverein und der Präsident im Kirchgemeinderat wussten davon. Nicht einmal in ihrem Umfeld bemerkte jemand eine Veränderungen. 
 
@@ -57,4 +57,4 @@ Während der Behandlung ging es ihr erstaunlich gut, und niemand bemerkte etwas.
 
 ### Alles kommt gut
 
-Natürlich hatte Margrit Angst, dass es nicht gut ausgehen würde. "Man denkt schon jeden Tag daran, aber jetzt nicht panisch. Es ist halt ein ständiger Begleiter von einem, dass es sein kann", im Hintergrund hört man plötzlich ganz leise ihren Mann seufzen als er ihre Aussage gehört hat. Und leider gab es auch Spätfolgen. Nach sieben Jahren hatte sie Rückenschmerzen, die sich als Brustkrebsableger im Wirbel herausstellten. Sie musste weitere Behandlungen über sich ergehen lassen und sich insgesamt 32 Mal jeden Tag im Lindenhof-Spital bestrahlen lassen. Doch auch das hat sie gemeistert.
+Natürlich hatte Margrit Angst, dass es nicht gut ausgehen würde. "Man denkt schon jeden Tag daran, aber jetzt nicht panisch. Es ist halt ein ständiger Begleiter von einem, dass es sein kann", im Hintergrund hört man plötzlich ganz leise ihren Mann seufzen als er ihre Aussage gehört hat. Und leider gab es auch Spätfolgen. Nach sieben Jahren hatte sie Rückenschmerzen, die sich als Brustkrebsableger im Wirbel herausstellten. Sie musste weitere Behandlungen über sich ergehen lassen und sich insgesamt 32 Mal jeden Tag im Lindenhof-Spital bestrahlen lassen. Doch auch das hat sie gemeistert. Mittlerweile geht es Margrit sehr gut und sie hat alles Behandlungen sehr gut überstanden, trotzdem muss sie immer noch zwei Mal im Jahr sich untersuchen lassen um frühzeitig zu erkennen ob der Krebs zurück gekommen ist.
