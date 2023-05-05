@@ -38,6 +38,11 @@ Wir sitzen in Margrit Schmids Wohnzimmer. Sie trägt ein weißes T-Shirt mit ein
 Die meisten Menschen haben das Gefühl, dass nur Frauen an Brustkrebs erkranken, aber auch Männer sind betroffen. Jährlich erkranken über 70 Männer in der Schweiz an Brustkrebs. Bei den Frauen ist es eine deutlich höhere Zahl: Jährlich erkranken in der Schweiz fast 7000 Frauen an Brustkrebs, was verglichen mit den Männern eine enorm hohe Zahl ist. 
 
 
+  
+
+Brustkrebs ist eine Art von Krebs, der sich in den Zellen der Brust bildet. Es ist eine der häufigsten Krebsarten bei Frauen und kann auch bei Männern auftreten. Aber wie entsteht Brustkrebs? Brustkrebs entsteht, wenn sich eine Zelle in der Brust bösartig verändert, unkontrolliert vermehrt und zerstörend in umliegendes Gewebe wächst. Auslöser sind in der Regel Veränderungen im Erbgut oder Fehler beim Ablesen der Erbinformation. Die Diagnose von Brustkrebs erfolgt durch eine Kombination aus körperlicher Untersuchung, Mammographie und Biopsie. Die Behandlung von Brustkrebs umfasst in der Regel eine Operation, Chemotherapie, Strahlentherapie oder eine Kombination dieser Verfahren. Der Erfolg der Behandlung hängt von verschiedenen Faktoren ab, wie dem Stadium des Krebses und dem allgemeinen Gesundheitszustand der betroffenen Person.
+
+
 
 ### Werde ich wieder gesund?
 
