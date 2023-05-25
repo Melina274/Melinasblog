@@ -4,7 +4,7 @@ date = "2023-05-25"
 draft = false
 pinned = false
 image = "shari-effortless-pftgxs_zfuw-unsplash-3-.jpg"
-description = "Poetry Slam Text"
+description = " Slam Poetry Text"
 +++
 Unser Leben erscheint uns schlecht, denn wir wünschen uns immer mehr, als dass was wir haben, wünschen uns das, was andere scheinbar haben, sehen nicht das, was andere sich wünschen, zu haben, was wir haben. Wir wollen immer mehr, scrollen immer weiter, immer mehr Videos, immer mehr Menschen, die uns zeigen, was wir nicht haben…. Wie wir nicht sind, wie wir nicht aussehen, was uns fehlt, was wir scheinbar nicht erleben. Scheinbar.
 
