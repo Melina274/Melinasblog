@@ -3,6 +3,7 @@ title = "Der Kampf gegen den Brustkrebs und wie er mich beeinflusste. "
 date = "2023-04-07"
 draft = false
 pinned = false
+tags = ["Brustkrebs", "Reportage", "Identität"]
 image = "whatsapp-image-2023-03-19-at-14.27.30.jpeg"
 +++
 {{<lead>}}
