@@ -3,6 +3,7 @@ title = "Scheinbar"
 date = "2023-05-25"
 draft = false
 pinned = false
+tags = ["Unzufriedenheit", "Leben", "SozialeMedien"]
 image = "shari-effortless-pftgxs_zfuw-unsplash-3-.jpg"
 description = " Slam Poetry Text"
 +++
