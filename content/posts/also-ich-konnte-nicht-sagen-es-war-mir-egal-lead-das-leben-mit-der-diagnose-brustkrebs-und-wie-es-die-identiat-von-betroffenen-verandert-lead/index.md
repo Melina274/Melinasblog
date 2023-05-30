@@ -3,6 +3,7 @@ title = "«Also ich konnte nicht sagen es war mir egal»  "
 date = "2023-03-18"
 draft = false
 pinned = false
+tags = ["Brustkrebs", "Interview", "Identität"]
 image = "margrit-schmid.jpg"
 description = "Die schreckliche Diagnose Brustkrebs"
 +++
