@@ -3,6 +3,7 @@ title = "Gedanken bei dir"
 date = "2023-06-08"
 draft = false
 pinned = false
+image = "herz.jpg"
 description = "Geschriebenes Lied von Chat GPT"
 +++
 
