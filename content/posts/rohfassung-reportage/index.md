@@ -18,9 +18,7 @@ Margrit Schmid (78), momentan lebt sie in Münchenbuchsee. Sie ist verheiratet, 
 
 {{</box>}}
 
-![Margrit Schmid, in Ihrem Wohnzimmer](whatsapp-image-2023-03-19-at-14.27.30.jpeg)
-
-
+![Margrit Schmid](whatsapp-image-2023-03-19-at-14.27.30.jpeg)
 
 {{<box>}}
 
@@ -47,8 +45,6 @@ Brustkrebs ist eine Art von Krebs, der sich in den Zellen der Brust bildet. Es i
 Die Heilungschancen sind bei Früherkennung sehr gut. Es gibt verschiedene Behandlungsmöglichkeiten, wie Margrit hoffnungsvoll mit einem Lächeln im Gesicht erzählt. Die Behandlung, die sie durchmachen musste, war intensiv. Sie unterzog sich einer brusterhaltenden Operation, drei Monate lang wöchentlich Chemotherapie, Bestrahlung und Medikamenten. Doch sie gab nicht auf und kämpfte sich durch. Brustkrebs ist zwar eine der häufigsten Krebsarten bei Frauen, aber er hat heute auch eine gute Heilungsquote. Fünf Jahre nach der Diagnose leben noch 80 Prozent der erkrankten Frauen. Eine mindestens zehnjährige Nachbeobachtung empfehlen Fachleute. Trotz der Schwere der Diagnose änderte sich ihre Lebenseinstellung nicht.
 
 >  *Ich war schon immer sehr positiv eingestellt und dachte mir, man muss das genießen, was man kann, und das andere kann man ja nicht ändern",* 
-
-
 
 ### Es wusste fast niemand
 
