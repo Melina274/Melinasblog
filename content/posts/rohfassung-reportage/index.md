@@ -20,12 +20,6 @@ Margrit Schmid (78), momentan lebt sie in Münchenbuchsee. Sie ist verheiratet, 
 
 ![Margrit Schmid](whatsapp-image-2023-03-19-at-14.27.30.jpeg)
 
-{{<box>}}
-
-Brustkrebs ist eine Art von Krebs, der sich in den Zellen der Brust bildet. Es ist eine der häufigsten Krebsarten bei Frauen und kann auch bei Männern auftreten. Aber wie entsteht Brustkrebs? Brustkrebs entsteht, wenn sich eine Zelle in der Brust bösartig verändert, unkontrolliert vermehrt und zerstörend in umliegendes Gewebe wächst. Auslöser sind in der Regel Veränderungen im Erbgut oder Fehler beim Ablesen der Erbinformation. Die Diagnose von Brustkrebs erfolgt durch eine Kombination aus körperlicher Untersuchung, Mammographie und Biopsie. Die Behandlung von Brustkrebs umfasst in der Regel eine Operation, Chemotherapie, Strahlentherapie oder eine Kombination dieser Verfahren. Der Erfolg der Behandlung hängt von verschiedenen Faktoren ab, wie dem Stadium des Krebses und dem allgemeinen Gesundheitszustand der betroffenen Person.
-
-{{</box>}}
-
 Ein helles, altmodisch eingerichtetes Wohnzimmer wirkt friedlich und ruhig. Man hört nur das Geschirr klirren, welches ihr Ehemann gerade wegräumt. Es duftet dezent nach Rosen und Karamell. In diesem Raum bemerkt Margrit Schmid das erste Mal einen Knoten in ihrer Brust, der ihr ganzes Leben von heute auf morgen auf den Kopf stellen würde.
 
 ### Gestern war ich noch gesund und jetzt habe ich Brustkrebs
