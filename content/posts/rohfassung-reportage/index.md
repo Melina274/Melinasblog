@@ -20,7 +20,7 @@ Margrit Schmid (78), momentan lebt sie in Münchenbuchsee. Sie ist verheiratet, 
 
 ![Margrit Schmid](whatsapp-image-2023-03-19-at-14.27.30.jpeg)
 
-Ein helles, altmodisch eingerichtetes Wohnzimmer wirkt friedlich und ruhig. Man hört nur das Geschirr klirren, welches ihr Ehemann gerade wegräumt. Es duftet dezent nach Rosen und Karamell. In diesem Raum bemerkt Margrit Schmid das erste Mal einen Knoten in ihrer Brust, der ihr ganzes Leben von heute auf morgen auf den Kopf stellen würde.
+Ein helles, altmodisch eingerichtetes Wohnzimmer wirkt friedlich und ruhig. Man hört nur das Geschirr klirren, welches ihr Ehemann gerade wegräumt. Es duftet dezent nach Rosen und Karamell. In diesem Raum bemerkt Margrit Schmid das erste Mal einen Knoten in ihrer Brust, der ihr ganzes Leben von heute auf morgen auf den Kopf stellte.
 
 ### Gestern war ich noch gesund und jetzt habe ich Brustkrebs
 
